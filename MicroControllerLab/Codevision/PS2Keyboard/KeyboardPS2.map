@@ -1,0 +1,13 @@
+CodeVisionAVR C Compiler V1.24.2c Standard
+(C) Copyright 1998-2004 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.ro
+e-mail:office@hpinfotech.ro
+
+File: C:\cvavr\bin\KeyboardPS2.c
+Global variables memory map:
+
+Variable                          Address   Size
+_base_y_G2                           160h      4
+_lcd_x                                 R4      1
+_lcd_y                                 R5      1
+_lcd_maxx                              R6      1

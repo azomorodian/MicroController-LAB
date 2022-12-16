@@ -1,0 +1,16 @@
+Creating   'serial.eep'
+Creating   'serial.obj'
+Creating   'serial.lst'
+
+Assembling 'serial.asm'
+Including  'serial.vec'
+Including  'serial.inc'
+
+Program memory usage:
+Code             :  244 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :  245 words
+
+Assembly complete with no errors.
+Deleting   'serial.eep'

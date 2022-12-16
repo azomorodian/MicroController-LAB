@@ -1,0 +1,28 @@
+CodeVisionAVR C Compiler V1.24.2c Standard
+(C) Copyright 1998-2004 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.ro
+e-mail:office@hpinfotech.ro
+
+File: C:\cvavr\bin\PS2.c
+Global variables memory map:
+
+Variable                          Address   Size
+edge                                   R4      1
+bitcount                               R5      1
+kb_buffer                            160h     64
+*inpt                               R6,R7      2
+*outpt                              R8,R9      2
+buffcnt                               R10      1
+a                                     R11      1
+state                                 R12      1
+ScanCode                              R13      1
+Codes                                1A0h     20
+Index                                 R14      1
+data_S0                              1B4h      1
+is_up_S3                             1B5h      1
+shift_S3                             1B6h      1
+mode_S3                              1B7h      1
+_base_y_G4                           1B8h      4
+_lcd_x                               1BCh      1
+_lcd_y                               1BDh      1
+_lcd_maxx                            1BEh      1

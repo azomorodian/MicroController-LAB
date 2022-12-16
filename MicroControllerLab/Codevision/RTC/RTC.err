@@ -1,0 +1,16 @@
+Creating   'RTC.eep'
+Creating   'RTC.obj'
+Creating   'RTC.lst'
+
+Assembling 'RTC.asm'
+Including  'RTC.vec'
+Including  'RTC.inc'
+
+Program memory usage:
+Code             : 1240 words
+Constants (dw/db):   24 words
+Unused           :    0 words
+Total            : 1264 words
+
+Assembly complete with no errors.
+Deleting   'RTC.eep'

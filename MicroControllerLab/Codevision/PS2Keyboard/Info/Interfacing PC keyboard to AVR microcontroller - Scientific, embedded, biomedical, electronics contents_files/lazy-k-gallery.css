@@ -1,0 +1,57 @@
+#gallery {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em; POSITION: relative
+}
+#gallery DIV {
+	
+}
+#gallery DIV.breadcrumb {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+#gallery DIV.breadcrumb P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#gallery DIV.folders {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+#gallery DIV.folders UL {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 0px
+}
+#gallery DIV.folders P {
+	MARGIN: 0px
+}
+#gallery DIV.thumbs {
+	
+}
+#gallery DIV.thumbs UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#gallery DIV.thumbs LI {
+	PADDING-RIGHT: 0.6em; PADDING-LEFT: 0.6em; BACKGROUND: #dddddd; FLOAT: left; PADDING-BOTTOM: 0.6em; MARGIN: 0.5em; VERTICAL-ALIGN: top; PADDING-TOP: 0.6em; TEXT-ALIGN: center
+}
+#gallery DIV.thumbs IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#gallery DIV.thumbs P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.1em; PADDING-TOP: 0px
+}
+#gallery DIV.thumbs IMG:hover {
+	
+}
+DIV.thumbs IMG:focus {
+	
+}
+#gallery DIV.stopfloating {
+	CLEAR: both
+}
+#gallery #nav {
+	BORDER-RIGHT: #a9a9a9 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #a9a9a9 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; MARGIN: 6px 0px; BORDER-LEFT: #a9a9a9 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: #a9a9a9 1px solid; HEIGHT: 18px
+}
+#gallery #nav .alignleft {
+	FLOAT: left
+}
+#gallery #nav .alignright {
+	FLOAT: right
+}
+#gallery DIV.slide {
+	TEXT-ALIGN: center
+}

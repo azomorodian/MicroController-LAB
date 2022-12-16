@@ -1,0 +1,18 @@
+CodeVisionAVR C Compiler V1.24.2c Standard
+(C) Copyright 1998-2004 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.ro
+e-mail:office@hpinfotech.ro
+
+File: C:\Documents and Settings\Artin\Desktop\AzRez\Serial1\serial.c
+Global variables memory map:
+
+Variable                          Address   Size
+rx_buffer                            160h      8
+rx_wr_index                            R4      1
+rx_rd_index                            R5      1
+rx_counter                             R6      1
+rx_buffer_overflow                   R2.0    1/8
+tx_buffer                            168h      8
+tx_wr_index                            R7      1
+tx_rd_index                            R8      1
+tx_counter                             R9      1

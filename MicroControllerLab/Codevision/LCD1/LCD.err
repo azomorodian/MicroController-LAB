@@ -1,0 +1,16 @@
+Creating   'LCD.eep'
+Creating   'LCD.obj'
+Creating   'LCD.lst'
+
+Assembling 'LCD.asm'
+Including  'LCD.vec'
+Including  'LCD.inc'
+
+Program memory usage:
+Code             :  352 words
+Constants (dw/db):   12 words
+Unused           :    0 words
+Total            :  364 words
+
+Assembly complete with no errors.
+Deleting   'LCD.eep'

@@ -1,0 +1,16 @@
+Creating   'Keyboard.eep'
+Creating   'Keyboard.obj'
+Creating   'Keyboard.lst'
+
+Assembling 'Keyboard.asm'
+Including  'Keyboard.vec'
+Including  'Keyboard.inc'
+
+Program memory usage:
+Code             :  998 words
+Constants (dw/db):   18 words
+Unused           :    0 words
+Total            : 1016 words
+
+Assembly complete with no errors.
+Deleting   'Keyboard.eep'

@@ -1,0 +1,16 @@
+Creating   'LCDT.eep'
+Creating   'LCDT.obj'
+Creating   'LCDT.lst'
+
+Assembling 'LCDT.asm'
+Including  'LCDT.vec'
+Including  'LCDT.inc'
+
+Program memory usage:
+Code             :  256 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :  257 words
+
+Assembly complete with no errors.
+Deleting   'LCDT.eep'

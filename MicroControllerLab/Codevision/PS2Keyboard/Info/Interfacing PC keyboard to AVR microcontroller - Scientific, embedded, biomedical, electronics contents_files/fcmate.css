@@ -1,0 +1,207 @@
+#gb_form_div {
+	WIDTH: 99%; TEXT-ALIGN: left
+}
+#gb_form {
+	BACKGROUND: none transparent scroll repeat 0% 0%; TEXT-ALIGN: left
+}
+#gb_form_div A {
+	COLOR: #999; TEXT-DECORATION: underline
+}
+#gb_form_div A:hover {
+	COLOR: #111; BACKGROUND-COLOR: #fff; TEXT-DECORATION: none
+}
+#gb_form_div A:focus {
+	COLOR: #111; BACKGROUND-COLOR: #fff; TEXT-DECORATION: none
+}
+#gb_form_div A:active {
+	COLOR: #111; BACKGROUND-COLOR: #fff; TEXT-DECORATION: none
+}
+#gb_form FIELDSET {
+	BORDER-TOP-WIDTH: 0px; MARGIN-TOP: 10px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#gb_form LEGEND {
+	FONT-WEIGHT: bold; COLOR: #cc0000
+}
+#gb_form DT {
+	FONT-WEIGHT: bold; COLOR: #cc0000
+}
+#gb_form LEGEND {
+	MARGIN-LEFT: -10px; PADDING-TOP: 5px
+}
+#gb_form LEGEND#mainlegend {
+	FONT-SIZE: 1.1em; PADDING-BOTTOM: 10px; MARGIN-LEFT: -10px; COLOR: #003366; PADDING-TOP: 5px
+}
+#gb_form LEGEND#mainlegend SMALL {
+	FONT-SIZE: 0.7em; TEXT-TRANSFORM: uppercase
+}
+#gb_form_div .formhead SMALL A {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#gb_form_div .main_formhead {
+	FONT-SIZE: 1.2em; WIDTH: 101%; COLOR: #003366
+}
+#gb_form_div .formhead {
+	FONT-SIZE: 1.2em; WIDTH: 101%; COLOR: #003366
+}
+#gb_form LABEL {
+	MARGIN-TOP: 5px; MARGIN-LEFT: 0px; COLOR: #003366
+}
+#gb_form INPUT.short {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #999 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; FONT: 1.1em verdana, arial, sans-serif; BORDER-LEFT: #999 1px solid; WIDTH: 70%; COLOR: #333; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid; HEIGHT: auto; BACKGROUND-COLOR: #f6f6f6
+}
+#gb_form INPUT.med {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #999 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; FONT: 1.1em verdana, arial, sans-serif; BORDER-LEFT: #999 1px solid; WIDTH: 70%; COLOR: #333; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid; HEIGHT: auto; BACKGROUND-COLOR: #f6f6f6
+}
+#gb_form SELECT.med {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #999 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; FONT: 1.1em verdana, arial, sans-serif; BORDER-LEFT: #999 1px solid; WIDTH: 70%; COLOR: #333; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid; HEIGHT: auto; BACKGROUND-COLOR: #f6f6f6
+}
+#gb_form TEXTAREA.textbox {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #999 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; FONT: 1.1em verdana, arial, sans-serif; BORDER-LEFT: #999 1px solid; WIDTH: 70%; COLOR: #333; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid; HEIGHT: auto; BACKGROUND-COLOR: #f6f6f6
+}
+#gb_form INPUT.short {
+	WIDTH: 12%
+}
+#gb_form TEXTAREA.textbox {
+	WIDTH: 98%; LINE-HEIGHT: 1.5em; HEIGHT: 220px
+}
+#gb_form SELECT.med {
+	MAX-WIDTH: 70%; WIDTH: auto
+}
+#gb_form INPUT.checkbox {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 10px; CURSOR: default; COLOR: #003366; PADDING-TOP: 0px; HEIGHT: 10px; BORDER-RIGHT-WIDTH: 0px
+}
+#gb_form INPUT.button:hover {
+	COLOR: #fff; BACKGROUND-COLOR: #003366
+}
+#gb_form INPUT.button:focus {
+	COLOR: #fff; BACKGROUND-COLOR: #003366
+}
+#gb_form INPUT.hover.button {
+	COLOR: #fff; BACKGROUND-COLOR: #003366
+}
+#gb_form INPUT.focus.button {
+	COLOR: #fff; BACKGROUND-COLOR: #003366
+}
+#gb_form INPUT.short:hover {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form INPUT.short:hover {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form INPUT.med:hover {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form INPUT.med:focus {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form SELECT.med:hover {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form SELECT.med:focus {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form TEXTAREA.textbox:hover {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form TEXTAREA.textbox:focus {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form INPUT.hover.short {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form INPUT.focus.short {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form INPUT.hover.med {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form INPUT.focus.med {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form SELECT.hover.med {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form SELECT.focus.med {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form TEXTAREA.hover.textbox {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form TEXTAREA.focus.textbox {
+	BORDER-RIGHT: #333 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #333 1px inset; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #333 1px inset; CURSOR: text; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #333 1px inset; BACKGROUND-COLOR: #fff
+}
+#gb_form INPUT.button {
+	PADDING-RIGHT: 20px; MARGIN-TOP: 10px; PADDING-LEFT: 20px; FLOAT: right; WIDTH: 35%; CURSOR: pointer
+}
+SPAN.error {
+	FONT-WEIGHT: bold; COLOR: red
+}
+SPAN.success {
+	FONT-WEIGHT: bold; COLOR: red
+}
+#gb_form_div DT SMALL {
+	COLOR: #003366
+}
+SPAN.success {
+	COLOR: #003366
+}
+DL#result_dl_blockq DT {
+	COLOR: #003366
+}
+#gb_form_div DT {
+	COLOR: #003366
+}
+#gb_form_div .formhead SPAN.success {
+	COLOR: #999
+}
+#gb_form SMALL.whythis {
+	BORDER-RIGHT: #fafafa 1px solid; BORDER-TOP: #fafafa 1px solid; FONT-SIZE: 0.9em; BORDER-LEFT: #fafafa 1px solid; COLOR: #333; BORDER-BOTTOM: #fafafa 1px solid; LETTER-SPACING: 0em; TEXT-DECORATION: none
+}
+#gb_form SMALL.whythis A {
+	BORDER-RIGHT: #fafafa 1px solid; BORDER-TOP: #fafafa 1px solid; FONT-SIZE: 0.9em; BORDER-LEFT: #fafafa 1px solid; COLOR: #333; BORDER-BOTTOM: #fafafa 1px solid; LETTER-SPACING: 0em; TEXT-DECORATION: none
+}
+#gb_form SMALL.whythis A SPAN {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 1px; COLOR: #fafafa; PADDING-TOP: 1px; FONT-FAMILY: arial, sans-serif
+}
+#gb_form SMALL.whythis A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#gb_form SMALL.whythis A:focus {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#gb_form SMALL.whythis A:active {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#gb_form SMALL.whythis A:hover SPAN {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; COLOR: #fff; BORDER-BOTTOM: #000 1px solid; FONT-STYLE: normal; BACKGROUND-COLOR: #cc0000
+}
+#gb_form SMALL.whythis A:focus SPAN {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; COLOR: #fff; BORDER-BOTTOM: #000 1px solid; FONT-STYLE: normal; BACKGROUND-COLOR: #cc0000
+}
+#gb_form SMALL.whythis A:active SPAN {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; COLOR: #fff; BORDER-BOTTOM: #000 1px solid; FONT-STYLE: normal; BACKGROUND-COLOR: #cc0000
+}
+#gb_form P.creditline SMALL {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; PADDING-BOTTOM: 15px; MARGIN: 0px; COLOR: #777; PADDING-TOP: 25px; FONT-FAMILY: arial, sans-serif; LETTER-SPACING: 0em; TEXT-ALIGN: right
+}
+#gb_form_div DL DD SMALL {
+	PADDING-LEFT: 0px; FONT-SIZE: 0.7em; MARGIN-LEFT: 0px; LETTER-SPACING: 0em
+}
+.abbr {
+	CURSOR: help; BORDER-BOTTOM: #999 1px dashed
+}
+DL#result_dl_blockq BLOCKQUOTE {
+	MARGIN-LEFT: 0px
+}
+DL.result_dl_blockq BLOCKQUOTE {
+	MARGIN-LEFT: 0px
+}
+DL#result_dl_blockq BLOCKQUOTE P CITE {
+	DISPLAY: block; TEXT-ALIGN: right
+}
+DL.result_dl_blockq BLOCKQUOTE P CITE {
+	DISPLAY: block; TEXT-ALIGN: right
+}
+#gb_form_div SPAN.items {
+	FONT-WEIGHT: bold; COLOR: #999
+}

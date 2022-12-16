@@ -1,0 +1,16 @@
+Creating   'PS2.eep'
+Creating   'PS2.obj'
+Creating   'PS2.lst'
+
+Assembling 'PS2.asm'
+Including  'PS2.vec'
+Including  'PS2.inc'
+
+Program memory usage:
+Code             :  710 words
+Constants (dw/db):  141 words
+Unused           :    0 words
+Total            :  851 words
+
+Assembly complete with no errors.
+Deleting   'PS2.eep'

@@ -1,0 +1,16 @@
+Creating   'SW_LED.eep'
+Creating   'SW_LED.obj'
+Creating   'SW_LED.lst'
+
+Assembling 'SW_LED.asm'
+Including  'SW_LED.vec'
+Including  'SW_LED.inc'
+
+Program memory usage:
+Code             :  129 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :  130 words
+
+Assembly complete with no errors.
+Deleting   'SW_LED.eep'

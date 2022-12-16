@@ -1,0 +1,16 @@
+Creating   'KeyboardPS2.eep'
+Creating   'KeyboardPS2.obj'
+Creating   'KeyboardPS2.lst'
+
+Assembling 'KeyboardPS2.asm'
+Including  'KeyboardPS2.vec'
+Including  'KeyboardPS2.inc'
+
+Program memory usage:
+Code             :  359 words
+Constants (dw/db):    7 words
+Unused           :    0 words
+Total            :  366 words
+
+Assembly complete with no errors.
+Deleting   'KeyboardPS2.eep'
